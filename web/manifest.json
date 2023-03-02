@@ -1,0 +1,35 @@
+{
+    "name": "卒業・進級制作展示会2022",
+    "short_name": "卒業・進級制作展示会2022",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "東京電子専門学校の情報システム系の中に、ウェブ・メディア科があり、こちらでは毎年、年度内最後のイベントとして学生生活の集大成となる作品を制作し展示する、卒業・進級展示会を開催いたしております。",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "./favicon.ico",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "./favicon.ico",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "./favicon.ico",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "./favicon.ico",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
